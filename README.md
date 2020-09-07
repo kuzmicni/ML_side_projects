@@ -1,1 +1,1 @@
-# ML_side_projects
+Notebooks from Kaggle competitions.
